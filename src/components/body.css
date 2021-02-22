@@ -1,0 +1,42 @@
+#cardholder {
+  display: flex;
+  justify-content: space-between;
+}
+.cardmain {
+  transition: 1s ease;
+}
+.cardimage {
+  width: 100%;
+  margin: 0px;
+  transition: 1s ease;
+  border-radius: 5px 5px 0px 0px;
+}
+.cardmain:hover {
+  box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.01);
+  -ms-transform: scale(1.01);
+  transform: scale(1.01);
+  transition: 1s ease;
+  opacity: 95%;
+}
+.cardbd {
+  border-radius: 0px 0px 5px 5px;
+  padding: 10px;
+  width: 100%;
+  transition: 1s ease;
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+}
+.bodytxt {
+  color: white;
+}
+.addacrtbtn {
+  color: black;
+  background-image: linear-gradient(315deg, #d9d9d9 0%, #f6f2f2 74%);
+  border-radius: 10px;
+  margin-bottom: 5px;
+  font-size: 2px;
+  padding: 5px;
+  text-align: center;
+  display: flex;
+}

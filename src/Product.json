@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "name": "Dog & snow",
+      "price": 20,
+      "type": "men",
+      "url": "https://www.hdwallpapers.in/download/cute_little_girl_is_playing_with_dog_in_snow_field_wearing_woolen_dress_and_cap_hd_cute-HD.jpg"
+    },
+    {
+      "name": "Gredient Car",
+      "price": 50,
+      "type": "men",
+      "url": "https://www.hdwallpapers.in/download/retrowave_neon_mustang_driver_5k-HD.jpg"
+    },
+    {
+      "name": "Bengal Tiger",
+      "price": 30,
+      "type": "women",
+      "url": "https://www.hdwallpapers.in/download/bengal_tiger_4k_8k_2-HD.jpg"
+    }
+  ]
+}
